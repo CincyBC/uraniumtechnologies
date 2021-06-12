@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "Uranium Technologies",
+  "welcomeText": "# Uranium Technologies\n\nAUranium powers some of our greatest cities and we're providing technology solutions to nuclear companies.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Uranium Technologies builds tech for nuclear companies. Find our free app at uraniumtech.app.",
   "seoMetaImage": ""
 }

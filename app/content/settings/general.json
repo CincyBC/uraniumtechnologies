@@ -2,9 +2,10 @@
   "title": "Home",
   "titleTemplate": "Uranium Technologies",
   "welcomeText": "# Uranium Technologies\n\nUranium powers some of our greatest cities and we're providing technology solutions to power nuclear companies.",
-  "logo": "/images/uploads/logo.svg",
+  "logo": "/images/uploads/logo.png",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
+  "featuredImage": "/images/uploads/81464027_471079400471586_3271125514441457664_n.jpg",
   "seoDescription": "Uranium Technologies builds tech for nuclear companies. Find our free app at uraniumtech.app.",
-  "seoMetaImage": ""
+  "seoMetaImage": "/images/uploads/logo.png"
 }
